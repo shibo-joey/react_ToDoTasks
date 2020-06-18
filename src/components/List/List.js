@@ -13,6 +13,7 @@ const ListCard = (props) => {
   return (
     <div className="SingleList">
       <h5>{props.children}&nbsp;</h5>
+
       <button onClick={() => deletehandler(props.keyId)}>Delete</button>
     </div>
   );

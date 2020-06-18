@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <h1 className="textR">To Do Tasks</h1>
         <Input current={tasks} add={settasks} />
-        <ListContainer current={tasks} current={tasks} del={settasks} />
+        <ListContainer current={tasks} del={settasks} />
       </header>
     </div>
   );
