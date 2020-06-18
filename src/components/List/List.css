@@ -1,0 +1,17 @@
+.SingleList h5 {
+  font-size: large;
+  margin-bottom: 5px;
+}
+
+.SingleList {
+  background-color: rgb(245, 125, 69);
+  height: 110px;
+  width: 300px;
+  margin: 15px;
+  text-align: center;
+  border: 3px solid green;
+}
+
+.SingleList button {
+  margin-bottom: 15px;
+}
